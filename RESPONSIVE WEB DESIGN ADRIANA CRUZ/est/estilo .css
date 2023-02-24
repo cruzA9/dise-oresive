@@ -1,0 +1,29 @@
+p{
+    border: 1px solid rgb(212, 68, 252);
+    font-family: arial;
+    font-size: medium;
+    line-height: 20px;
+    background-color: rgba(242, 239, 225, 0.947);
+    
+}
+.central{
+    text-align: justify;
+    font-family: arial;
+    margin: 50px auto;
+    padding: 50px;
+    width: 1000px;
+    height: 1800px;
+    text-decoration-color: white;
+}
+
+header{
+    font-family: arial;
+    height: 30px;
+    text-align: center;
+    color:rgb(21, 43, 214);
+  }
+body{
+    background-repeat: repeat-y;
+    background-image: url(tecno.avif);
+
+}
